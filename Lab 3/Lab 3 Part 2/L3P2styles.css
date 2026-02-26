@@ -1,3 +1,4 @@
+
 @import "https://fonts.googleapis.com/css2?family=Bevan:ital@0;1&family=IBM+Plex+Serif:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap";
 
 
@@ -12,13 +13,14 @@ body {
   padding: 0 20px;
   min-width: 980px;
   max-width: 1400px;
-}
+
 /* body font styling*/
-font-family: "IBM Plex Serif", serif;
-font-size: 1rem;
-line-height: 1.6;
-letter-spacing: 0.02em;
-color: #222;
+	font-family: "IBM Plex Serif", serif;
+	font-size: 1rem;
+	line-height: 1.6;
+	letter-spacing: 0.02em;
+	color: #222;
+}
 
 /* Layout */
 
@@ -122,7 +124,7 @@ nav ul {
 }
 
 nav li {
-	margin-bottom: 10 px;
+	margin-bottom: 10px;
 }
 
 /* make the nav links buttons*/
@@ -132,7 +134,7 @@ nav a {
 	font-family: "Bevan", serif;
 	text-transform: uppercase;
 	text-align: center;
-	padding: 14 px 10px;
+	padding: 14px 10px;
 	border: 2px solid #aa6666;
 	background-color: white;
 	color: #aa6666;
