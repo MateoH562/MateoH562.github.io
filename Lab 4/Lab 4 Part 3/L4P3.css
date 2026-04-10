@@ -1,4 +1,4 @@
-body {
+html, body {
 	margin:0;
 	overflow: hidden;
 }
@@ -6,11 +6,12 @@ body {
 h1 {
 	position: absolute;
 	margin: 0;
+	padding: 10px;
 	color: white;
-	left: 10px;
-	top:10px;
+	font-family: sans-serif;
 }
 
 canvas {
 	display: block;
+	background-color: black;
 }
