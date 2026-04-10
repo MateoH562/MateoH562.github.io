@@ -9,7 +9,7 @@ const imageFiles = ["pic1.jpg", "pic2.jpg", "pic3.jpg", "pic4.jpg", "pic5.jpg"];
 
 const altTexts = {
 	"pic1.jpg": "Closeup of human eye",
-	"pic2.jpg": "Rock that looks like a wave",
+	"pic2.jpg": "Rock that looks like a wave", 
 	"pic3.jpg": "Purple and white pansies",
 	"pic4.jpg": "Section of a wall from a pharaoh's tomb",
 	"pic5.jpg": "Large moth on a leaf"
