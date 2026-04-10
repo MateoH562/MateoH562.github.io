@@ -19,7 +19,7 @@ class Ball {
     this.y = y;
     this.velX = velX;
     this.velY = velY;
-    this.color = color;
+    this.color = color; 
     this.size = size;
   }
   draw() {
